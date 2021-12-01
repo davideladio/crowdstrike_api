@@ -1,6 +1,9 @@
 CROWDSTRIKE API
 ---------------                
 
+FIRST THINGS FIRST: I'm starting... well... not starting... coming back to this 'coding world' SO
+any feedback, opinion, correction, pull requests... will be HIGHLY APPRECIATED. Thanks in advance!
+
 After some time studying CrowdStrike's swagger and coding some functions i've been needing finally
 I'm posting them here so anyone who may need them will get 'em and use 'em right away.
 
