@@ -1,11 +1,5 @@
-
-
-   ____                      _ ____  _        _ _                        
-  / ___|_ __ _____      ____| / ___|| |_ _ __(_) | _____  
- | |   | '__/ _ \ \ /\ / / _` \___ \| __| '__| | |/ / _ \
- | |___| | | (_) \ V  V / (_| |___) | |_| |  | |   <  __/
-  \____|_|  \___/ \_/\_/ \__,_|____/ \__|_|  |_|_|\_\___|
-                  
+CROWDSTRIKE API
+---------------                
 
 After some time studying CrowdStrike's swagger and coding some functions i've been needing finally
 I'm posting them here so anyone who may need them will get 'em and use 'em right away.
@@ -19,3 +13,5 @@ Hopefully this will help someone or at least save some time :)
 Any feedback is more than welcomed!
 
 PD. All functions have been tested with Python 3.8.9 64bits
+
+d3la
